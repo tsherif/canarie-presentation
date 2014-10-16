@@ -1,0 +1,1 @@
+Presentation on BrainBrowser open source development for CANARIE Research Software Developer's Workshop, October 2014.
