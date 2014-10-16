@@ -1,1 +1,1 @@
-Presentation on BrainBrowser open source development for CANARIE Research Software Developer's Workshop, October 2014.
+Presentation on preparing software for open source development for the CANARIE Research Software Developer's Workshop, October 2014.
